@@ -40,10 +40,10 @@ graph TD;
     A[User] --> B;
     B[Access Bias News Detector Website] --> C;
     C[Upload a News Website's Article Link] --> D;
-    D[Scrape Text from Article Link] --> E;
+    D[Scrape Text from Article Link using BS4] --> E;
     E[Use Natural Language Processing to Find Bias Words] --> F;
-    F[Measure Bias Score Based on the Context, Author, Information Given, etc.] --> G;
-    G[Reveal Bias Metric to User and Highlighted Bias Sections];
+    F[Measure Bias Score Based on the Context, Information Given, Word Choice, etc.] --> G;
+    G[Reveal Bias Metric based on ratio of facts and bias statements to User and Highlighted Bias Sections];
 ```
 
 ## Project Tasks and Timeline
