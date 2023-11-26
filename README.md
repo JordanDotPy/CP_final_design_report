@@ -79,5 +79,6 @@ https://docs.google.com/presentation/d/1co4_NATWwx58o8fNLTBt8JRdHQASSN4Hl-MjrWZ7
 ## Professional Biographies
 
 ## Budget
+Our budget is currently projected to be $0. We have the necessary equipment already in-hand to complete our anticapted tasks. We are aware that processing power may be a concern that we discover later on in our progress. If this concern materializes, we may opt to rent temporary virtual processors. This cost is projected to be under $50 if needed.
 
 ## Appendix
